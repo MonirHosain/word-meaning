@@ -1,12 +1,13 @@
 <pre>
 <kbd>page-152 / Eid </kbd>
+<kbd>Second Passage</kbd>
 
  main - প্রধান 
  religious - ধর্মীয় 
  festival - উৎসব 
  means - মানে 
  happiness - সুখ 
- eveyone - প্রত্যেকেই 
+ everyone - প্রত্যেকেই 
  want - চাওয়া  
  near - কাছের 
  dear - প্রিয় 
@@ -49,4 +50,33 @@
  invisible - অদৃশ্য
  minds - মনোযোগ দেওয়া 
  between - মধ্যে 
+</pre>
+<pre>
+<kbd>Second Passage</kbd>
+ members - সদ্যস্য 
+ friend - বন্ধু 
+ neighbours - প্রতিবেশী  
+ land - ভূমি 
+ grow - বড় হওয়া  
+ up - উপরে 
+ sense - ইন্দ্রিয় 
+ our - আমাদের 
+ birth - জন্ম 
+ relatives - আত্বীয় 
+ culture - সংস্কৃতি 
+ traditions - ঐতিহ্য 
+ surroundings - চারপাশ
+ wherever - যেখানেই 
+ stay - থাকা 
+ feel - অনুভব করা
+ power - শক্তি 
+ develop - বিকাশ 
+ identity - পরিচয় 
+ become - পরিণত  
+ rootless - শিকরহীন
+ beings - প্রাণী 
+ entity - স্বত্ত্বা
+ heading - শিরোনাম 
+ empty - খালি 
+ lost - নিখোঁজ 
 </pre>
