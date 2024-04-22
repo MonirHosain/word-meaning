@@ -1,6 +1,8 @@
+## My Roots
+
 <pre>
 <kbd>page-152 / Eid </kbd>
-<kbd>Second Passage</kbd>
+<kbd>First Passage</kbd>
 
  main - প্রধান 
  religious - ধর্মীয় 
@@ -53,7 +55,7 @@
 </pre>
 <pre>
 <kbd>Second Passage</kbd>
- members - সদ্যস্য 
+ members - সদস্য
  friend - বন্ধু 
  neighbours - প্রতিবেশী  
  land - ভূমি 
