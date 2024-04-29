@@ -2,73 +2,72 @@
 
 ####
 
-<pre>
 <kbd>3.3.3</kbd><br><kbd>Page-42 / 1st passage</kbd>
- sense - দৃশ্য 
- beauty - সুন্দর্য 
- fundamental - মৌলিক 
- aspect - দৃষ্টিভঙ্গি 
- human - মানুষ 
- existence - অস্তিত্ব 
- that - যে 
- transcends - অতিক্রম করা 
- cultural - সাংস্কৃতিক  
- temporal - অস্থায়ী 
- individual - স্বতন্ত্র 
- boundaries - সীমানা 
- complex - জটিল 
- multifaceted - বহুমুখী 
- experience - অভিজ্ঞতা 
- sense - ইন্দ্রিয়
- innate - সহজাত 
- deeply - গভীর ভাবে 
- ingrained - বদ্ধমূল 
- ability - সামর্থ 
- appreciate - অনুপ্রানিত করা 
- recognize - চিনতে পারা 
- aesthetic - নান্দনিক 
- qualities - গুণাবলী 
- various - বিভিন্ন 
- form - প্রকার 
- such - যেমন 
- as - যেমন 
- art - শিল্প 
- nature - প্রকৃতি 
- even - এমনকি 
- creations - সৃষ্টিকুল 
- while - যখন 
- subjective - বিষয় ভিত্তিক
- some - কিছু 
- extent - ব্যাপ্তি 
- there - যেখানে  
- objective - উদ্দেশ্য 
- elements - উপাদান 
- that - যে 
- universally - সার্বজনীন 
- evoke - আহব্বান করা 
- awe - ভয় 
- pleasure - তৃপ্তি
- inspiration - অনুপ্রেরণা 
- individual - ব্যাক্তি
- encompasses - বোঝায়
- appreciation - উপলব্ধি 
- both - উভয় 
- inner - ভিতরের 
- external - বহিরাগত 
- aesthetics - চারুকলা 
- some - কিছু 
- argue - তর্ক করা 
- focus - কেন্দ্র বিন্দু 
- should - উচিত 
- primarily - প্রাথমিক ভাবে 
- virtues - গুণাবলী 
- being - শুরু হওয়া 
- others - অন্যান্য 
- contend - তর্ক বিতর্ক করা 
- holds - ধারণ
- world - বিশ্ব  করা 
- immense - বিরাট 
- deserves - যৌগ্য হওয়া 
- equal - সমান 
- attention - মনোযোগ
-</pre>
+| word | Meaning | উচ্চারণ |
+| ------------ | --------------- | -------------- |
+| sense | ইন্দ্রিয় | সেনস |
+| beauty | সুন্দর্য | বিউটি |
+| fundamental | মৌলিক | ফান্ডামেন্টাল |
+| aspect | দৃষ্টিভঙ্গি | অ্যাসপেক্ট |
+| human | মানুষ | হিউম্যান |
+| existence | অস্তিত্ব | একজিসটেন্স |
+| that | যে | |
+| transcends | অতিক্রম করা | ট্রেনসেন্ডস |
+| cultural | সাংস্কৃতিক | কালচারাল |
+| temporal | অস্থায়ী | টেম্পোরাল |
+| individual | স্বতন্ত্র | ইনডিভিজুয়াল |
+| boundaries | সীমানা | বাউওনডারিজ |
+| complex | জটিল | কমপ্লেক্স |
+| multifaceted | বহুমুখী | মাল্টি ফেস্টেড |
+| experience | অভিজ্ঞতা | এক্সপেরিয়েন্স |
+| innate | সহজাত | ইননেইট |
+| deeply | গভীর ভাবে | ডিপলি |
+| ingrained | বদ্ধমূল | ইনগ্রেইনড |
+| ability | সামর্থ | অ্যাবিলিটি |
+| appreciate | অনুপ্রানিত করা | অ্যাপ্রিসিয়েট |
+| recognize | চিনতে পারা | রিকগনাইজ |
+| aesthetic | নান্দনিক | অ্যাইস্থেটিক |
+| qualities | গুণাবলী | ্কুয়ালিটিস |
+| various | বিভিন্ন | ভ্যারিয়াস |
+| form | প্রকার | |
+| such | যেমন | |
+| as | যেমন | |
+| art | শিল্প | |
+| nature | প্রকৃতি | ন্যাচার |
+| even | এমনকি | |
+| creations | সৃষ্টিকুল | |
+| while | যখন | |
+| subjective | বিষয় ভিত্তিক | সাবজেক্টিভ |
+| some | কিছু | |
+| extent | ব্যাপ্তি | এক্সটেন্ট |
+| there | যেখানে | |
+| objective | উদ্দেশ্য | অবজেক্টিভ |
+| elements | উপাদান | ইলিমেন্টস |
+| that | যে | |
+| universally | সার্বজনীন | ইউনিভার্সালি |
+| evoke | আহব্বান করা | ইভোক |
+| awe | ভয় | অ্যাওয়ি |
+| pleasure | তৃপ্তি | প্লেজার |
+| inspiration | অনুপ্রেরণা | ইনস্পাইরেশন |
+| individual | ব্যাক্তি | ইনডইভিজুয়াল |
+| encompass | বেষ্টন করা | ইনকম্পাস |
+| appreciation | উপলব্ধি | অ্যাপ্রিসিয়েশন |
+| both | উভয় | |
+| inner | ভিতরের | |
+| external | বহিরাগত | এক্সটার্নাল |
+| aesthetics | চারুকলা | অ্যাইস্থেটিক |
+| some | কিছু | |
+| argue | তর্ক করা | |
+| focus | কেন্দ্র বিন্দু | |
+| should | উচিত | |
+| primarily | প্রাথমিক ভাবে | প্রাইমারিলি |
+| virtues | গুণাবলী | ভারচুওস |
+| being | শুরু হওয়া | |
+| others | অন্যান্য | |
+| contend | তর্ক বিতর্ক করা | কনটেন্ড |
+| holds | ধারণ | হোল্ডস |
+| world | বিশ্ব করা | |
+| immense | বিরাট | ইমেন্স |
+| deserv | যৌগ্য হওয়া | ডিসার্ভ |
+| equal | সমান | |
+| attention | মনোযোগ | অ্যাটেনশন |
