@@ -1,84 +1,86 @@
 ## My Roots
 
-<pre>
 <kbd>page-152 / Eid </kbd>
 <kbd>First Passage</kbd>
 
- main - প্রধান 
- religious - ধর্মীয় 
- festival - উৎসব 
- means - মানে 
- happiness - সুখ 
- everyone - প্রত্যেকেই 
- want - চাওয়া  
- near - কাছের 
- dear - প্রিয় 
- ones - ব্যাক্তি 
- most - অনেক 
- people - জনগন 
- live - বাস করা  
- outside - বাইরে 
- their - তাদের 
- homes - গৃহ
- for - জন্য 
- different - ভিন্ন 
- reason - কারণ  
- have - আছে 
- strong - শক্তিশালী 
- desire - ইচ্ছা
- get - পাওয়া 
- back - পিছনে 
- during - সময় 
- vacation - ছুটির দিন 
- as - যেমন 
- result - ফলাফল 
- mad - পাগল 
- rush - ভীড় 
- board - তক্তা 
- bus - বাস 
- often - প্রায় 
- causes - কারণ 
- transport - পরিবহন 
- accident - দুর্ঘটনা 
- however - যাইহোক 
- these - এইগুলো 
- meet - সাক্ষাত করা 
- family - পরিবার 
- serious - গুরতর 
- hazards - বিপদ 
- return - প্রত্যাবর্তন 
- roots - শিকর 
- unlike - অসদৃশ 
- invisible - অদৃশ্য
- minds - মনোযোগ দেওয়া 
- between - মধ্যে 
-</pre>
-<pre>
-<kbd>Second Passage</kbd>
- members - সদস্য
- friend - বন্ধু 
- neighbours - প্রতিবেশী  
- land - ভূমি 
- grow - বড় হওয়া  
- up - উপরে 
- sense - ইন্দ্রিয় 
- our - আমাদের 
- birth - জন্ম 
- relatives - আত্বীয় 
- culture - সংস্কৃতি 
- traditions - ঐতিহ্য 
- surroundings - চারপাশ
- wherever - যেখানেই 
- stay - থাকা 
- feel - অনুভব করা
- power - শক্তি 
- develop - বিকাশ 
- identity - পরিচয় 
- become - পরিণত  
- rootless - শিকরহীন
- beings - প্রাণী 
- entity - স্বত্ত্বা
- heading - শিরোনাম 
- empty - খালি 
- lost - নিখোঁজ 
-</pre>
+| ইংরেজি শব্দ | অর্থ         | উচ্চারণ                   |
+| ----------- | ------------ | ------------------------- |
+| main        | প্রধান       | মেইন (mein)               |
+| religious   | ধর্মীয়       | রিলিজাস (re-li-jas)       |
+| festival    | উৎসব         | ফেস্টিভাল (fe-sti-bal)    |
+| means       | মানে         | মিনস (min-s)              |
+| happiness   | সুখ          | হ্যাপিনেস (ha-pi-nes)     |
+| everyone    | প্রত্যেকেই   | ইভরিওয়ান (ev-ri-wan)      |
+| want        | চাওয়া        | ওয়ান্ট (want)            |
+| near        | কাছের        | নিয়ার (ni-ar)             |
+| dear        | প্রিয়        | ডিয়ার (di-ar)             |
+| ones        | ব্যাক্তি     | ওনস (ons)                 |
+| most        | অনেক         | মোস্ট (most)              |
+| people      | জনগন         | পিপল (pi-pol)             |
+| live        | বাস করা      | লাইভ (live)               |
+| outside     | বাইরে        | আউটসাইড (aut-sa-id)       |
+| their       | তাদের        | থেয়ার (their)             |
+| homes       | গৃহ          | হোমস (homes)              |
+| for         | জন্য         | ফর (for)                  |
+| different   | ভিন্ন        | ডিফারেন্ট (di-fe-rent)    |
+| reason      | কারণ         | রিজন (ri-jon)             |
+| have        | আছে          | হ্যাভ (hav)               |
+| strong      | শক্তিশালী    | স্ট্রং (strong)           |
+| desire      | ইচ্ছা        | ডিসাইয়ার (di-sai-er)      |
+| get         | পাওয়া        | গেট (get)                 |
+| back        | পিছনে        | ব্যাক (bak)               |
+| during      | সময়          | ডিউরিং (du-ring)          |
+| vacation    | ছুটির দিন    | ভ্যাকেশন (va-ke-shon)     |
+| as          | যেমন         | এস (as)                   |
+| result      | ফলাফল        | রেসাল্ট (re-salt)         |
+| mad         | পাগল         | ম্যাড (mad)               |
+| rush        | ভীড়          | রাশ (rash)                |
+| board       | তক্তা        | বোর্ড (bord)              |
+| bus         | বাস          | বাস (bus)                 |
+| often       | প্রায়        | অফেন (of-en)              |
+| causes      | কারণ         | কজ (kaz)                  |
+| transport   | পরিবহন       | ট্রান্সপোর্ট (tran-spôrt) |
+| accident    | দুর্ঘটনা     | যুব্বধান (ac-si-dent)     |
+| however     | যাইহোক       | হাওভার (how-ever)         |
+| these       | এইগুলো       | থিস (thi-z)               |
+| meet        | সাক্ষাত করা  | মিট (meet)                |
+| family      | পরিবার       | ফ্যামিলি (fam-i-li)       |
+| serious     | গুরতর        | সিরিয়াস (si-ri-as)        |
+| hazards     | বিপদ         | হেজার্ড্স (haz-ards)      |
+| return      | প্রত্যাবর্তন | রিটার্ন (ri-turn)         |
+| roots       | শিকর         | রুট্স্ (roots)            |
+| unlike      | অসদৃশ        | অন-লাইক (un-like)         |
+| invisible   | অদৃশ্য       | ইন-ভিসিবল (in-vis-i-ble)  |
+| minds       | মনোযোগ দেওয়া | মাইন্ডস্ (minds)          |
+| between     | মধ্যে        | বিট-উইন (bi-tween)        |
+
+Second Passage
+
+| ইংরেজি শব্দ  | অর্থ      | উচ্চারণ                     |
+| ------------ | --------- | --------------------------- |
+| members      | সদস্য     | মেম্বার্স (members)         |
+| friend       | বন্ধু     | ফ্রেন্ড (friend)            |
+| neighbours   | প্রতিবেশী | নেইবার্স (neighbours)       |
+| land         | ভূমি      | ল্যান্ড (land)              |
+| grow         | বড় হওয়া   | গ্রো (gro)                  |
+| up           | উপরে      | আপ (up)                     |
+| sense        | ইন্দ্রিয়  | সেন্স (sense)               |
+| our          | আমাদের    | আওর (our)                   |
+| birth        | জন্ম      | বার্থ (birth)               |
+| relatives    | আত্বীয়    | রেলেটিভস্ (relatives)       |
+| culture      | সংস্কৃতি  | কালচার (culture)            |
+| traditions   | ঐতিহ্য    | ট্রেডিশন্স্ (traditions)    |
+| surroundings | চারপাশ    | সারাউন্ডিংস্ (surroundings) |
+| wherever     | যেখানেই   | ওয়েরেভার (wherever)        |
+| stay         | থাকা      | স্টে (stay)                 |
+| feel         | অনুভব করা | ফিল (feel)                  |
+| power        | শক্তি     | পাওয়ার (power)             |
+| develop      | বিকাশ     | ডেভেলপ (develop)            |
+| identity     | পরিচয়     | আইডেন্টিটি (identity)       |
+| become       | পরিণত     | বিকাম (become)              |
+| rootless     | শিকরহীন   | রুটলেস (rootless)           |
+| beings       | প্রাণী    | বিংস (beings)               |
+| entity       | স্বত্ত্বা | এন্টিটি (entity)            |
+| heading      | শিরোনাম   | হেডিং (heading)             |
+| empty        | খালি      | এম্প্টি (empty)             |
+| lost         | নিখোঁজ    | লস্ট (lost)                 |
