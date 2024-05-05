@@ -72,3 +72,54 @@
 | deserv       | যৌগ্য হওয়া      |                               |
 | equal        | সমান            |                               |
 | attention    | মনোযোগ          | অ্যাটেনশন (attention)         |
+
+<kbd>3.3.3</kbd><br><kbd>Page-42 / 2nd passage</kbd>
+
+| English Word | Meaning      | Pronunciation (উচ্চারণ)             |
+| ------------ | ------------ | ----------------------------------- |
+| beauty       | সৌন্দর্য     | বিউটি (biu-ti)                      |
+| something    | কিছু         | সামথিং (sam-thing)                  |
+| rather       | অধিক পরিমাণে | রাদার (ra-dar)                      |
+| pretty       | সুন্দর       | প্রিটি (pri-ti)                     |
+| soul         | আত্মা        | সোল (sol)                           |
+| beautiful    | সুন্দর       | বিউটিফুল (biu-tiful)                |
+| thoughts     | চিন্তাগুলি   | থটস (tho-tos)                       |
+| literature   | সাহিত্য      | লিটারেচার (li-tare-char)            |
+| found        | পাওয়া       | ফাউন্ড (found)                      |
+| everything   | সব কিছু      | এভ্রিথিং (ev-ri-thing)              |
+| nature       | প্রকৃতি      | নেচার (ne-char)                     |
+| figurative   | আলংকারিক     | ফিগারেটিভ (fi-ga-re-tib)            |
+| language     | ভাষা         | ল্যাঙ্গুয়েজ (lan-gu-age)           |
+| behaviour    | আচরণ         | বিহেভিয়ার (bi-he-vi-or)            |
+| attitude     | মনোভাব       | অ্যাটিটিউড (at-it-ud)               |
+| inner        | অভ্যন্তরীণ   | ইনার (in-ar)                        |
+| emanates     | উত্পন্ন হয়  | ইম্যানেটস (e-ma-ne-ts)              |
+| which        | যা           | উইচ (wich)                          |
+| appears      | প্রকাশিত হয় | অ্যাপিয়ারস (ap-i-yars)             |
+| personality  | ব্যক্তিত্ব   | পার্সোনালিটি (par-so-na-li-ti)      |
+| feeling      | অনুভূতি      | ফিলিং (fi-ling)                     |
+| inside       | ভেতরে        | ইনসাইড (in-side)                    |
+| reflect      | প্রতিফলিত    | রিফলেক্ট (re-lekt)                  |
+| face         | মুখ          | ফেস (fes)                           |
+| person       | ব্যক্তি      | পার্সন (par-son)                    |
+| leaves       | পাতা         | লিভস (li-ves)                       |
+| smile        | হাসি         | স্মাইল (smail)                      |
+| remember     | মনে রাখা     | রিমেম্বার (ri-mem-bar)              |
+| patience     | ধৈর্য        | পেশেন্স (pe-shens)                  |
+| humbleness   | অবিহত্য      | হাম্বলনেস (ham-bl-nes)              |
+| wisdom       | জ্ঞান        | উইজডম (wi-zdom)                     |
+| some         | কিছু         | সাম (som)                           |
+| qualities    | গুণ          | কোয়ালিটিস (ko-wal-it-is)           |
+| necessarily  | অবশ্যই       | নেসেসেরিলি (ne-se-se-ri-li)         |
+| being        | থাকা         | বিয়ন্গ (bi-yang)                   |
+| felt         | অনুভব করা    | ফেল্ট (felt)                        |
+| appreciated  | সরানো        | অ্যাপ্রেসিয়েটেড (ap-pre-si-ate-ed) |
+| other        | অন্যান্য     | অদার (o-dar)                        |
+| people       | মানুষ        | পিপল (pi-pal)                       |
+| emerges      | উদ্ভব হয়    | এমার্জেস (e-mar-jes)                |
+| within       | ভিতরে        | উইথিন (wi-thin)                     |
+| oneself      | নিজে         | ওনসেলফ (on-self)                    |
+| encompasses  | অধিকার       | ইনকাম্পাসেস (in-ka-m-pa-ses)        |
+| kindness     | দয়া         | কাইন্ডনেস (kain-d-nas)              |
+| compassion   | দয়ালু       | কোমপাশন (kom-pa-shon)               |
+| integrity    | অবমাননা      | ইন্টিগ্রিটি (in-ti-gri-ti)          |
