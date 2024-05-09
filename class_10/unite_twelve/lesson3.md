@@ -1,5 +1,3 @@
-<kbd>Unit 2 / Lesson 3 / Michael Madhusudan Dutt</kbd>
-
 | English Word  | Meaning           | Pronunciation (উচ্চারণ)            |
 | ------------- | ----------------- | ---------------------------------- |
 | celebrated    | খ্যাতনামা         | সেলিব্রেটেড (cel-e-bret-ed)        |
