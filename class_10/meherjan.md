@@ -1,7 +1,6 @@
 | English Word   | Meaning                              | Pronunciation (উচ্চারণ)                |
 | -------------- | ------------------------------------ | -------------------------------------- |
 | slum           | বস্তি                               | স্লাম (slum)                           |
-| Sirajgonj      | সিরাজগঞ্জ                           | সিরাজগঞ্জ (Sirajgonj)                  |
 | protection     | সুরক্ষা                             | প্রোটেকশন (pro-tek-shon)               |
 | embankment     | বাঁধ                                | এমব্যাংকমেন্ট (em-bank-ment)           |
 | whispering     | ফিসফিস করা                          | হুইস্পারিং (whis-per-ing)              |
