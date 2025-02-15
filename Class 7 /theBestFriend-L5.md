@@ -1,1 +1,30 @@
-Don't be sad, Farabi, and don't think seriously about what your friend Harun did. ... I know a story about friends. Listen." Two friends were walking through a desert. After a while they had a quarrel, and one friend slapped the other. The friend who got slapped was hurt. But without saying anything he wrote in the sand: Today my best friend slapped me in the face. They kept walking until they found an oasis. There they decided to take a bath. The one who was slapped before got stuck in the quicksand and started going down. But his friend saved him. After he was saved he wrote on a stone: Today my best friend saved my life. The friend who slapped and saved his best friend asked, "After I hurt you, you wrote in the sand and now you write on a stone . Why?" The other friend replied, "When someone hurts us, we should write it down in the sand. The wind can erase it away. But when someone does something good for us, we should engrave it on stone, so no wind can erase it." "Do you know the moral of the story?" Flora asked. Farabi nodded and smiled, "Yes, we should forget
+| English         | Bengali                     |
+|-----------------|-----------------------------|
+| Sad             | দুঃখিত                      |
+| Think seriously | গভীরভাবে ভাবা               |
+| Friend          | বন্ধু                        |
+| Story           | গল্প                         |
+| Walking         | হেঁটে যাওয়া                  |
+| Desert          | মরুভূমি                     |
+| Quarrel         | ঝগড়া                        |
+| Slapped         | চড় মারা                     |
+| Hurt            | আঘাত পাওয়া                  |
+| Sand            | বালি                        |
+| Face            | মুখ                          |
+| Oasis           | মরুদ্যান                     |
+| Bath            | স্নান করা                   |
+| Stuck           | আটকে যাওয়া                  |
+| Quicksand       | চলন্ত বালি                  |
+| Saved           | বাঁচানো                     |
+| Stone           | পাথর                        |
+| Hurt            | আঘাত করা                   |
+| Erase           | মুছে ফেলা                  |
+| Engrave         | খোদাই করা                  |
+| Moral           | নৈতিক শিক্ষা               |
+| Nodded          | মাথা নেড়ে সম্মতি জানানো     |
+| Smiled          | হাসল                        |
+| Forget          | ভুলে যাওয়া                 |
+| Hurts           | আঘাত                        |
+| Remember        | মনে রাখা                    |
+| Good deeds      | ভালো কাজ                   |
+| Forever         | চিরকাল                      |
