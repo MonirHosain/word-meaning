@@ -1,0 +1,32 @@
+| Base Form    | Past Simple    | Past Participle    |
+|--------------|----------------|--------------------|
+| admire       | admired        | admired            |
+| ban          | banned         | banned             |
+| burn         | burnt          | burnt              |
+| claim        | claimed        | claimed            |
+| carry        | carried        | carried            |
+| chew         | chewed         | chewed             |
+| dare         | dared          | dared              |
+| employ       | employed       | employed           |
+| excuse       | excused        | excused            |
+| frighten     | frightened     | frightened         |
+| guess        | guessed        | guessed            |
+| hate         | hated          | hated              |
+| invent       | invented       | invented           |
+| rely         | relied         | relied             |
+| scold        | scolded        | scolded            |
+| shop         | shopped        | shopped            |
+| share        | shared         | shared             |
+| shave        | shaved         | shaved             |
+| skip         | skipped        | skipped            |
+| stir      | stirred     | stirred         |
+| sound     | sounded     | sounded         |
+| step      | stepped     | stepped         |
+| train     | trained     | trained         |
+| test      | tested      | tested          |
+| thank     | thanked     | thanked         |
+| treat     | treated     | treated         |
+| travel    | travelled   | travelled       |
+| tire      | tired       | tired           |
+| use       | used        | used            |
+| welcome   | welcomed    | welcomed        |
